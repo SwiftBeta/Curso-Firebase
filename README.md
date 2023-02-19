@@ -77,7 +77,7 @@
 	  </td>
     <td>
 	     <a href="https://youtu.be/xy9sK_nq16w">
-  		   <img src="https://i9.ytimg.com/vi/xy9sK_nq16w/mqdefault.jpg?v=62489420&sqp=CNyt45cG&rs=AOn4CLCFfEjZkJmEF55N4tXSOMmNm85ppA">
+  		   <img src="https://i3.ytimg.com/vi/xy9sK_nq16w/mqdefault.jpg?v=62489420&sqp=CNyt45cG&rs=AOn4CLCFfEjZkJmEF55N4tXSOMmNm85ppA">
 	   </a>
 	</td>
   </tr>
